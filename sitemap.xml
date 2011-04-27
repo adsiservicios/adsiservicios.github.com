@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://adsiservicios.com/</loc>
+  <lastmod>2011-04-26T06:07:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://adsiservicios.com/servicios</loc>
+  <lastmod>2011-04-26T06:07:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://adsiservicios.com/preguntas-frecuentes</loc>
+  <lastmod>2011-04-26T06:07:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://adsiservicios.com/nosotros</loc>
+  <lastmod>2011-04-26T06:07:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://adsiservicios.com/recursos</loc>
+  <lastmod>2011-04-26T06:07:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://adsiservicios.com/descargas/Carta_abierta_a_juntas_de_condominio.pdf</loc>
+  <lastmod>2011-04-26T06:07:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://adsiservicios.com/descargas/ADSI_Servicios_2040_servicios_para_condominios.pdf</loc>
+  <lastmod>2011-04-26T06:07:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
